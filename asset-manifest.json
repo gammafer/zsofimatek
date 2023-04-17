@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.11d0929d.css",
+    "main.js": "./static/js/main.cf8cadeb.js",
+    "static/media/equations.png": "./static/media/equations.b4032cf9ae4b59b58cc7.png",
+    "static/media/math_stuff.png": "./static/media/math_stuff.5043e202048eddf3c8dd.png",
+    "static/media/background.jpeg": "./static/media/background.66c58be97046c91506cd.jpeg",
+    "static/media/thinking_boy.png": "./static/media/thinking_boy.961082b31941a6390f56.png",
+    "static/media/mypic.png": "./static/media/mypic.c5891ebcfc6a16742214.png",
+    "static/media/stairway.png": "./static/media/stairway.6fd824e6bcf7631a2ef8.png",
+    "static/media/diplomacat.png": "./static/media/diplomacat.4910a87b314e8518b810.png",
+    "static/media/logo.png": "./static/media/logo.7f40b49f5246e506982e.png",
+    "index.html": "./index.html",
+    "main.11d0929d.css.map": "./static/css/main.11d0929d.css.map",
+    "main.cf8cadeb.js.map": "./static/js/main.cf8cadeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11d0929d.css",
+    "static/js/main.cf8cadeb.js"
+  ]
+}
